@@ -1,0 +1,10 @@
+C:\Users\hermi\source\repos\imageProcessingM\imageProcessingM\bin\Debug\imageProcessingM.exe.config
+C:\Users\hermi\source\repos\imageProcessingM\imageProcessingM\bin\Debug\imageProcessingM.exe
+C:\Users\hermi\source\repos\imageProcessingM\imageProcessingM\bin\Debug\imageProcessingM.pdb
+C:\Users\hermi\source\repos\imageProcessingM\imageProcessingM\obj\Debug\imageProcessingM.csproj.AssemblyReference.cache
+C:\Users\hermi\source\repos\imageProcessingM\imageProcessingM\obj\Debug\imageProcessingM.Form1.resources
+C:\Users\hermi\source\repos\imageProcessingM\imageProcessingM\obj\Debug\imageProcessingM.Properties.Resources.resources
+C:\Users\hermi\source\repos\imageProcessingM\imageProcessingM\obj\Debug\imageProcessingM.csproj.GenerateResource.cache
+C:\Users\hermi\source\repos\imageProcessingM\imageProcessingM\obj\Debug\imageProcessingM.csproj.CoreCompileInputs.cache
+C:\Users\hermi\source\repos\imageProcessingM\imageProcessingM\obj\Debug\imageProcessingM.exe
+C:\Users\hermi\source\repos\imageProcessingM\imageProcessingM\obj\Debug\imageProcessingM.pdb
